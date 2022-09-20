@@ -1,0 +1,43 @@
+html {  
+        height: 100vh;  
+       display: flex;  
+       align-items:right;  
+       justify-content: center; 
+       font-family:cursive; 
+       background-image: url(bg.png);
+}
+        
+        
+ body{
+  height:100px; 
+};
+     
+
+
+.navbar {
+ margin: center;
+justify-content: center;
+ color:rgb(18, 167, 38);
+};
+
+.logo {
+ font-size: 100px;
+}
+
+.menu {
+ display: flex;
+ gap: 1em;
+ font-size: 40px;
+ border-radius: 10px;
+ color:k#000000 ;
+ padding-top: 10px;
+ padding-left: 100px;
+};
+
+
+
+
+
+
+ 
+   
